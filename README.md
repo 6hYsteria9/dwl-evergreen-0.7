@@ -18,8 +18,8 @@
 9. [alwayscenter](https://codeberg.org/dwl/dwl-patches/patch/alwayscenter/alwayscenter.patch)
 
 #### Changes that've been made to [bar](https://codeberg.org/dwl/dwl-patches/patch/bar) patch:
-- Reduce `lrpad` to 0.75, for paddings around tag names(commit f31b82b9db279c6f20689586e7ee1bc2615e2c11).
-- Draw bar status on unfocused outputs, unlike the default `dwm` bar(commit 1a9dcebcee0b99c725fe4acfa1c7968f4cf7cbd4).
+- Reduce `lrpad` to 0.75, for paddings around tag names
+- Draw bar status on unfocused outputs, unlike the default `dwm` bar
 
 patch involes manual patch for some other patches, due to the changes:
 ```diff
