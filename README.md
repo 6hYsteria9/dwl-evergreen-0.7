@@ -1,6 +1,6 @@
 <div align = center>
 
-# My Everforest rice of [dwl](https://codeberg.org/dwl/dwl)
+# My [Everforest](https://everforest.vercel.app/) rice of [dwl](https://codeberg.org/dwl/dwl)
 
 <br>
 </div>
