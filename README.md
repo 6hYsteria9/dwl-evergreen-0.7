@@ -1,5 +1,6 @@
+<div align="center">
 ### My build of [dwl](https://codeberg.org/dwl/dwl)
-
+</div>
 <img width="1921" height="1081" alt="rice" src="https://github.com/user-attachments/assets/859e9091-1918-4a57-a2d6-dce13a57cb1e" />
 
 
